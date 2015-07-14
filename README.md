@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Trying to see if this is a viable alternative to a blog... 
